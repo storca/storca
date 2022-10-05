@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm storca
 
-I'm a student at ENAC (the national french shool of civil avitation) in Toulouse.
+I'm a student at ENAC (the national french school of civil avitation) in Toulouse.
 
 Currently looking for an intership in the field of IT
 
