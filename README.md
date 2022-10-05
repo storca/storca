@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm storca
+
+I'm a student at ENAC (the national french shool of civil avitation) in Toulouse.
+
+Currently looking for an intership in the field of IT
+
+🌱 My interests : systems administration, back-end, embeded systems, data processing
+✨ Languages I've already worked with : Python, C, C++, Rust, JS, PHP, Lua
+🤖 Technologies I know : Linux, Windows, Raspberry Pi, Arduino
+🧩 Frameworks I've used : Qt, Laravel, Platformio
 
 <!--
 **storca/storca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
