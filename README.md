@@ -2,7 +2,7 @@
 
 I'm a student at ENAC (the national french school of civil avitation) in Toulouse.
 
-Currently looking for an intership in the field of IT
+Currently looking for an intership in the field of IT for summer 2023
 
 - 🌱 My interests : systems administration, back-end, embeded systems, data processing
 - ✨ Languages I've already worked with : Python, C, C++, Rust, JS, PHP, Lua
