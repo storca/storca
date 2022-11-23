@@ -9,6 +9,8 @@ Currently looking for an intership in the field of IT for summer 2023
 - 🤖 Technologies I know : Linux, Windows, Raspberry Pi, Arduino
 - 🧩 Frameworks I've used : Qt, Laravel, Platformio
 
+I've made public contributions to [Nextcloud/desktop](https://github.com/nextcloud/desktop/pull/721) and [Attendize/Attendize](https://github.com/Attendize/Attendize/pulls?q=author%3Astorca).
+
 <!--
 **storca/storca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
